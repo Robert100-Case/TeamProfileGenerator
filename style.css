@@ -1,0 +1,21 @@
+
+     /* body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }*/
+
+      .jumbotron {
+        color:white;
+        background-color: red;
+        width: 100%;
+      }
+
+      .card
+      {
+           color:white;
+           background-color: blue;
+
+      }
+      li {
+        color: black;
+      }
